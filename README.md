@@ -31,9 +31,9 @@ SpeakAR is an Augmented Reality application that would help users improve their 
 ```bash
 git clone https://github.com/mark-edison-jim/SpeakAR.git
 ```
-- On PC, Open Unity Hub and Add from repository the folder that was cloned
+- On Windows, Open Unity Hub and Add from repository the folder that was cloned
 - Go into File > Build Settings > Build. This will create an apk.
-- After building, transfer the apk file to your mobile device then install the apk file by opening it.
+- After building, transfer the apk file to your mobile device (Android) then install the apk file by opening it.
 
 ## Troubleshooting
 **Plane Detecting Issues:**
