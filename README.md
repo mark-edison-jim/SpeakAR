@@ -35,6 +35,23 @@ git clone https://github.com/mark-edison-jim/SpeakAR.git
 - Go into File > Build Settings > Build. This will create an apk.
 - After building, transfer the apk file to your mobile device (Android) then install the apk file by opening it.
 
+## Getting Started
+Once the application is downloaded on your android, you will be met with a start menu, clicking Start will bring you into the scene with the main functionalities. 
+The main UI are as follows:
+- A pop-up panel on the bottom left; Includes choice and deletion of moddle and plane toggle. 
+- Import button for presentation slides.
+- Begin button to start your presentation.
+
+## Basic Controls
+1. To spawn a person, first select the model in the pop-up panel.
+2. Ensure that you are in a well-lit area, scan the environment until planes with borders start appearing, this will be your spawnable area.
+3. Tap on the plane with your model selected to spawn the model at that position.
+4. For modification of the spawned model:
+  - **Select** the model by tapping on it on the screen.
+  - **Reposition** it by dragging the selected model within the planes.
+  - **Scale** by using two fingers and doing a pinching gesture on the selected model.
+  - **Rotate** by selecting the model and either using two fingers to rotate or drag the hollow circle left and right that appears when selecting a model.
+
 ## Troubleshooting
 **Plane Detecting Issues:**
 - Ensure your environment is well-lit.
